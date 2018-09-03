@@ -9,6 +9,7 @@ public class App1 implements A {
     public static void main(String[] args) {
         new App1().doSth();
     }
+    //This is a change for all developers
 }
 
 interface A {
